@@ -1,0 +1,40 @@
+{
+  "appIsExample": false,
+  "appLayout": {
+    "type": "FLUID"
+  },
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "color": "#F3F1C7",
+  "evaluationVersion": 2,
+  "icon": "snowy-weather",
+  "pages": [
+    {
+      "id": "Dashboard",
+      "isDefault": false
+    },
+    {
+      "id": "Orders",
+      "isDefault": false
+    },
+    {
+      "id": "Customers",
+      "isDefault": false
+    },
+    {
+      "id": "Products",
+      "isDefault": false
+    },
+    {
+      "id": "Returns",
+      "isDefault": false
+    },
+    {
+      "id": "Page1",
+      "isDefault": true
+    }
+  ],
+  "unpublishedAppLayout": {
+    "type": "FLUID"
+  }
+}
