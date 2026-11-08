@@ -10,6 +10,26 @@
   "icon": "snowy-weather",
   "pages": [
     {
+      "id": "Dashboard2",
+      "isDefault": false
+    },
+    {
+      "id": "Orders2",
+      "isDefault": false
+    },
+    {
+      "id": "Customers2",
+      "isDefault": false
+    },
+    {
+      "id": "Products2",
+      "isDefault": false
+    },
+    {
+      "id": "Returns2",
+      "isDefault": false
+    },
+    {
       "id": "Dashboard",
       "isDefault": false
     },
